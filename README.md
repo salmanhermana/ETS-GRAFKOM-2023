@@ -3,4 +3,4 @@
 Muhammad Budhi Salmanjannah
 5025201084
 
-[ETS GRAFKOM](https://salmanhermana.github.io/ETS-GRAFKOM-2023/).
+[ETS GRAFKOM](https://salmanhermana.github.io/ETS-GRAFKOM-2023/)
