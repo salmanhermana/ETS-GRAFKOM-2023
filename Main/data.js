@@ -1,13 +1,13 @@
 var vertices = [
-    0.1,0.0,0.5,    //titik A 0
-    0.5,0.0,0.5,    //titik B 1
-    0.1,0.0,0.1,    //titik C 2
-    0.5,0.0,0.1,    //titik D 3
+    0.1, 0.0, 0.5,
+    0.2, 0.2, 0.5,  // Adjusted y-coordinate
+    0.3, 0.0, 0.5,
+    0.4, 0.2, 0.5,  // Adjusted y-coordinate
 
-    0.1,0.5,0.5,    //titik E 4
-    0.5,0.5,0.5,    //titik F 5
-    0.1,0.5,0.1,    //titik G 6
-    0.5,0.5,0.1    //titik H 7
+    0.1, 0.5, 0.5,
+    0.2, 0.3, 0.5,  // Adjusted y-coordinate
+    0.3, 0.5, 0.5,
+    0.4, 0.3, 0.5   // Adjusted y-coordinate
 ];
 
 var triangles = [
